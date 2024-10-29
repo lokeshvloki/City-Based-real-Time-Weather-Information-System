@@ -1,4 +1,4 @@
-# 🌤️ Weather App
+# 🌤️ City-Based Real-time Weather Information System
 A simple, dynamic weather application that retrieves real-time weather data for any city using the OpenWeatherMap API. This project showcases the basics of API integration, JavaScript data handling, and front-end development.
 
 ## 📋 Project Overview
@@ -17,7 +17,8 @@ City-Based Search: Allows users to search weather data by entering any city name
 Error Handling: Displays a user-friendly message if the city is not found
 ## 📂 Project Structure
 ```graphql
-weather-app/
+City-Based Real-time Weather Information System/
 ├── index.html    # HTML structure
 ├── style.css     # Styling for the app
 └── app.js        # JavaScript for API calls and DOM manipulation
+
