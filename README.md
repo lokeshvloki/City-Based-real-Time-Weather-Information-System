@@ -56,5 +56,13 @@ units: Metric system for temperature in Celsius
 🤝 Contributing
 Feel free to fork this project and submit pull requests. Contributions are welcome!
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
+
+
+
+```javascript
+weather-app/
+  index.html  # HTML structure
+  style.css   # Styling for the app
+  app.js      # JavaScript for API calls and DOM manipulation
