@@ -16,7 +16,7 @@ Real-Time Data: Pulls live data from the OpenWeatherMap API
 City-Based Search: Allows users to search weather data by entering any city name
 Error Handling: Displays a user-friendly message if the city is not found
 ## 📂 Project Structure
-graphql
+'''graphql
 Copy code
 weather-app/
 ├── index.html         # HTML structure
