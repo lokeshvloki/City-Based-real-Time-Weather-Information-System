@@ -22,8 +22,8 @@ weather-app/
 ├── style.css          # Styling for the app
 └── app.js             # JavaScript for API calls and DOM manipulation
 
-🛠️ Getting Started
-Prerequisites
+## 🛠️ Getting Started
+### Prerequisites
 Obtain an API key from OpenWeatherMap.
 Installation
 Clone this repository:
